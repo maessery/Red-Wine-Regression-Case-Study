@@ -1,0 +1,45 @@
+capstone notes
+
+statistics--- hockey-reference.com
+salary--- capfriendly.com
+
+NOTE:
+no 2007-08 shootout statistics
+no corsi/fenwick (adv) before 2008-09
+no misc before 2014-15
+
+
+
+
+take into account state/local taxes for each team (so you can tell how much they take hoem overall)
+--need knowledge of tax brackets?
+
+take into account inflation for the year ??
+take into account average/median and how far each player deviated from it
+--- (histogram with red line)
+
+
+**** need to drop duplicates of player stats
+--- keep "TOT" but remove individual team stats
+
+add column for whether/how many individual awards each player won that year
+include a column for if that player won the stanley cup that season
+---and/or include a column for amount of stanley cups/playoff games each player has up to that point in time
+
+ need to add in shootout data to goalies and players
+need to merge all players together
+---should i only do skaters or should i include goalies?
+
+need to add year column to each stat sheet then merge all together on player and year
+
+need to add corsi and fenwick and other advanced stats to regular stats
+
+include penalty shot and hattrick info
+ add miscellaneous statsitics page to overall stat sheet
+
+2004-2005 LOCKOUT YEAR
+
+include all star/olympic nominations???
+
+
+
